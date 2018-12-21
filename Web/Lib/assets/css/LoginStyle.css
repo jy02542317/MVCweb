@@ -1,0 +1,240 @@
+﻿body {
+    /*background: linear-gradient(to right, rgba(0,0,255,0), rgba(0,0,255,1));*/
+    background-image: url(/Image/2.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.loginbox {
+    position: absolute;
+    margin-top: 10%;
+    left: -150px;
+    width: 300px;
+    margin-left: 50%;
+    min-height: 300px;
+    padding: 25px;
+    background-color: #000000;
+    opacity: 0.8;
+    color: white;
+    box-shadow: 0 0 10px 10px rgba(255,255,255,.6);
+    border-radius: 15px;
+}
+
+.logintitle {
+    font-size: 28px;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.loginuser {
+    margin-top: 20px;
+    position: relative;
+    width: 15%;
+    float: left;
+    height: 32px;
+    line-height: 32px;
+    background-color: #4CAF50;
+    font-size: 24px;
+    text-align: center;
+    border-bottom: 4px solid #4CAF50;
+    border-radius: 10px 0 0 10px;
+}
+
+.loginusertext {
+    margin-top: 20px;
+    position: relative;
+    float: left;
+    width: 85%;
+    height: 32px;
+    line-height: 32px;
+}
+
+.clear {
+    clear: both;
+}
+
+.loginpass {
+    margin-top: 30px;
+    position: relative;
+    width: 15%;
+    float: left;
+    height: 32px;
+    line-height: 32px;
+    font-size: 24px;
+    text-align: center;
+    background-color: #4CAF50;
+    border-bottom: 4px solid #4CAF50;
+    border-radius: 10px 0 0 10px;
+}
+
+input[type="text"], input[type="password"] {
+    height: 32px;
+    line-height: 32px;
+    width: 100%;
+    padding: 0;
+    border-right: 0;
+    font-size: 24px;
+}
+
+.loginpasstext {
+    margin-top: 30px;
+    position: relative;
+    float: left;
+    width: 85%;
+    height: 32px;
+    line-height: 32px;
+}
+
+.loginbutton {
+    margin-top: 30px;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+    border-right: 4px solid #4CAF50;
+    border-radius: 5px
+}
+
+.mention{
+    margin-top:10px;
+    width:100%;
+    text-align:center;
+    color:red;
+}
+
+@media screen and (max-width: 500px) {
+    body {
+        background-image: url(/Image/3.jpg);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    .loginbox {
+        position: absolute;
+        margin-top: 50%;
+        left: -120px;        
+        width: 200px;
+        margin-left: 50%;
+        height: 300px;
+        padding: 25px;
+        background-color: #000000;
+        opacity: 0.8;
+        color: white;
+        box-shadow: 0 0 5px 5px #1b52c2;
+        border-radius: 15px;
+    }
+
+    .logintitle {
+        font-size: 28px;
+        text-align: center;
+        width: 100%;
+        margin-top: 10px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .loginuser {
+        margin-top: 20px;
+        position: relative;
+        width: 15%;
+        float: left;
+        height: 32px;
+        line-height: 32px;
+        background-color: #4CAF50;
+        font-size: 24px;
+        text-align: center;
+        border-bottom: 4px solid #4CAF50;
+        border-radius: 10px 0 0 10px;
+    }
+
+    .loginusertext {
+        margin-top: 20px;
+        position: relative;
+        float: left;
+        width: 85%;
+        height: 32px;
+        line-height: 32px;
+    }
+
+    .clear {
+        clear: both;
+    }
+
+    .loginpass {
+        margin-top: 30px;
+        position: relative;
+        width: 15%;
+        float: left;
+        height: 32px;
+        line-height: 32px;
+        font-size: 24px;
+        text-align: center;
+        background-color: #4CAF50;
+        border-bottom: 4px solid #4CAF50;
+        border-radius: 10px 0 0 10px;
+    }
+
+    input[type="text"], input[type="password"] {
+        height: 32px;
+        line-height: 32px;
+        width: 100%;
+        padding: 0;
+        border-right: 0;
+        font-size: 24px;
+    }
+
+    .loginpasstext {
+        margin-top: 30px;
+        position: relative;
+        float: left;
+        width: 85%;
+        height: 32px;
+        line-height: 32px;
+    }
+
+    .loginbutton {
+        margin-top: 30px;
+        text-align: center;
+        width: 100%;
+        padding: 0;
+    }
+
+    .button {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 10px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        width: 100%;
+        border-right: 4px solid #4CAF50;
+        border-radius: 5px
+    }
+
+}

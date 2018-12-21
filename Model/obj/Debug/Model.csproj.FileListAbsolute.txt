@@ -1,0 +1,17 @@
+C:\Users\jeffery.xu\Desktop\Storage\Web\Model\bin\Debug\Model.dll
+C:\Users\jeffery.xu\Desktop\Storage\Web\Model\bin\Debug\Model.pdb
+C:\Users\jeffery.xu\Desktop\Storage\Web\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\jeffery.xu\Desktop\Storage\Web\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\jeffery.xu\Desktop\Storage\Web\Model\obj\Debug\Model.dll
+C:\Users\jeffery.xu\Desktop\Storage\Web\Model\obj\Debug\Model.pdb
+D:\StorageWeb\Web\Model\bin\Debug\Model.dll
+D:\StorageWeb\Web\Model\bin\Debug\Model.pdb
+D:\StorageWeb\Web\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\StorageWeb\Web\Model\obj\Debug\Model.dll
+D:\StorageWeb\Web\Model\obj\Debug\Model.pdb
+F:\BaiduNetdiskDownload\Web\Model\bin\Debug\Model.dll
+F:\BaiduNetdiskDownload\Web\Model\bin\Debug\Model.pdb
+F:\BaiduNetdiskDownload\Web\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\BaiduNetdiskDownload\Web\Model\obj\Debug\Model.dll
+F:\BaiduNetdiskDownload\Web\Model\obj\Debug\Model.pdb
+F:\BaiduNetdiskDownload\Web\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
