@@ -23,9 +23,10 @@ namespace DAL
                 new SqlParameter("@Title",t.Title),
                 new SqlParameter("@Content",t.Content),
                 new SqlParameter("@createtime",DateTime.Now),
+                new SqlParameter("@FK_Type",t.FK_ArticleType),
                 new SqlParameter("@IsValid",true),
             };
-            sb.Append("Insert into [Article] (username,password,createtime,NowPass,IsValid,[Level]) values (@username,@password,@createtime,@password,@IsValid,@Level)");
+            sb.Append("Insert into [Article] (Title,FK_ArticleType,CreateTime,IsValid,[Content]) values (@Title,@FK_Type,@createtime,@IsValid,@Content)");
             int result = SqlHelper.ExecuteNonQuery(sb.ToString(), Params);
             return result;
         }

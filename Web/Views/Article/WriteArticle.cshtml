@@ -44,9 +44,10 @@
     function CreateBlog() {
         var htmls = $('#editor').html();
         var title = $('#title').val();
+        var fk_type = $("#articleType").val();
         $.ajax({
             url: '/Article/CreateArticle',      // 指定调用的URL，对应于Controller
-            data: JSON.stringify({ "Title": title, "MainContent": htmls }),                             // 如果请求有参数，需要在这里指定
+            data: JSON.stringify({ "Title": title, "MainContent": htmls, "fk_type": fk_type }),                             // 如果请求有参数，需要在这里指定
             type: "POST",                           // 请求类型
             contentType: "application/json;charset=utf-8",
             dataType: "json",

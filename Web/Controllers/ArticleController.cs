@@ -24,14 +24,16 @@ namespace Web.Controllers
             return View();
         }
 
-        public ActionResult CreateArticle(string Title, string MainContent)
+        public ActionResult CreateArticle(string Title, string MainContent,string fk_type)
         {
             Article art = new Article();
             art.Content = MainContent;
             art.CreateTime = DateTime.Now;
             art.Title = Title;
             art.IsValid = true;
-
+            art.FK_ArticleType = int.Parse(fk_type);
+            ArticleBLL bll = new ArticleBLL();
+            bll.AddArticle(art);
             return Json("保存成功");
         }
 
@@ -73,6 +75,7 @@ namespace Web.Controllers
             }
             catch (Exception ex)
             {
+
                 return null;
             }
         }

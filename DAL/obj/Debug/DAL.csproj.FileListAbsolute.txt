@@ -31,3 +31,14 @@ F:\BaiduNetdiskDownload\Web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 F:\BaiduNetdiskDownload\Web\DAL\obj\Debug\DAL.csproj.CopyComplete
 F:\BaiduNetdiskDownload\Web\DAL\obj\Debug\DAL.dll
 F:\BaiduNetdiskDownload\Web\DAL\obj\Debug\DAL.pdb
+D:\StorageWeb\MVCweb\DAL\bin\Debug\DAL.dll
+D:\StorageWeb\MVCweb\DAL\bin\Debug\DAL.pdb
+D:\StorageWeb\MVCweb\DAL\bin\Debug\IDAL.dll
+D:\StorageWeb\MVCweb\DAL\bin\Debug\Model.dll
+D:\StorageWeb\MVCweb\DAL\bin\Debug\IDAL.pdb
+D:\StorageWeb\MVCweb\DAL\bin\Debug\Model.pdb
+D:\StorageWeb\MVCweb\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\StorageWeb\MVCweb\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\StorageWeb\MVCweb\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\StorageWeb\MVCweb\DAL\obj\Debug\DAL.dll
+D:\StorageWeb\MVCweb\DAL\obj\Debug\DAL.pdb

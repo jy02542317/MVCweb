@@ -31,3 +31,14 @@ F:\BaiduNetdiskDownload\Web\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
 F:\BaiduNetdiskDownload\Web\BLL\obj\Debug\BLL.csproj.CopyComplete
 F:\BaiduNetdiskDownload\Web\BLL\obj\Debug\BLL.dll
 F:\BaiduNetdiskDownload\Web\BLL\obj\Debug\BLL.pdb
+D:\StorageWeb\MVCweb\BLL\bin\Debug\BLL.dll
+D:\StorageWeb\MVCweb\BLL\bin\Debug\BLL.pdb
+D:\StorageWeb\MVCweb\BLL\bin\Debug\IDAL.dll
+D:\StorageWeb\MVCweb\BLL\bin\Debug\Model.dll
+D:\StorageWeb\MVCweb\BLL\bin\Debug\IDAL.pdb
+D:\StorageWeb\MVCweb\BLL\bin\Debug\Model.pdb
+D:\StorageWeb\MVCweb\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\StorageWeb\MVCweb\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\StorageWeb\MVCweb\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\StorageWeb\MVCweb\BLL\obj\Debug\BLL.dll
+D:\StorageWeb\MVCweb\BLL\obj\Debug\BLL.pdb

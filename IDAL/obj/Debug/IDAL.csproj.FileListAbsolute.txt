@@ -25,3 +25,12 @@ F:\BaiduNetdiskDownload\Web\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
 F:\BaiduNetdiskDownload\Web\IDAL\obj\Debug\IDAL.csproj.CopyComplete
 F:\BaiduNetdiskDownload\Web\IDAL\obj\Debug\IDAL.dll
 F:\BaiduNetdiskDownload\Web\IDAL\obj\Debug\IDAL.pdb
+D:\StorageWeb\MVCweb\IDAL\bin\Debug\IDAL.dll
+D:\StorageWeb\MVCweb\IDAL\bin\Debug\IDAL.pdb
+D:\StorageWeb\MVCweb\IDAL\bin\Debug\Model.dll
+D:\StorageWeb\MVCweb\IDAL\bin\Debug\Model.pdb
+D:\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.csprojAssemblyReference.cache
+D:\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+D:\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.csproj.CopyComplete
+D:\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.dll
+D:\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.pdb
