@@ -12,6 +12,11 @@
 <script src="~/lib/assets/js/jquery.hotkeys.js"></script>
 <script src="~/lib/assets/js/bootstrap-wysiwyg.js"></script>
 <script>
+    $(function () {
+        $("#trandata").one("click", function () {
+            CreateBlog();
+        })
+    })
 
     function filetoEnd(name, type) {
         var result = $("#base64record").val();
@@ -42,22 +47,38 @@
     }
 
     function CreateBlog() {
-        var htmls = $('#editor').html();
-        var title = $('#title').val();
+        var btn = $("#trandata");
+        btn.unbind("click");
+        var htmls = $('#editor').html().trim();
+
+        if ($.isEmptyObject(htmls)) {
+            alert("请填写内容！")
+            return;
+        }
+
+        var title = $('#title').val().trim();
+        if ($.isEmptyObject(title)) {
+            alert("请填写标题！")
+        }
         var fk_type = $("#articleType").val();
         $.ajax({
+            async: false,
             url: '/Article/CreateArticle',      // 指定调用的URL，对应于Controller
             data: JSON.stringify({ "Title": title, "MainContent": htmls, "fk_type": fk_type }),                             // 如果请求有参数，需要在这里指定
             type: "POST",                           // 请求类型
             contentType: "application/json;charset=utf-8",
             dataType: "json",
             success: function (data) {
-
+                alert(data);
+                $('#editor').html("");
+                $('#title').val("");
+             
             }
             , function(data) {
 
             }
         });
+
     }
 </script>
 <input type="hidden" id="base64record" value="0" />
@@ -68,7 +89,7 @@
         <span class="input-group-addon"></span><input type="text" placeholder="标题" name="title" id="title" class="form-control">
     </div>
     <div id="Type">
-  
+
         <select id="articleType">
             <option value="1">心得体会</option>
         </select>
@@ -128,7 +149,7 @@
 
     </div>
     <div style="text-align:right;width:100%;margin-top:10px">
-        <input type="button" value="确定" class="btn btn-primary" id="trandata" onclick="CreateBlog();" />
+        <input type="button" value="确定" class="btn btn-primary" id="trandata" />
     </div>
 
 </div>

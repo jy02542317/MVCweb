@@ -34,3 +34,12 @@ D:\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
 D:\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.csproj.CopyComplete
 D:\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.dll
 D:\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.pdb
+F:\git\StorageWeb\MVCweb\IDAL\bin\Debug\IDAL.dll
+F:\git\StorageWeb\MVCweb\IDAL\bin\Debug\IDAL.pdb
+F:\git\StorageWeb\MVCweb\IDAL\bin\Debug\Model.dll
+F:\git\StorageWeb\MVCweb\IDAL\bin\Debug\Model.pdb
+F:\git\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+F:\git\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+F:\git\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.csproj.CopyComplete
+F:\git\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.dll
+F:\git\StorageWeb\MVCweb\IDAL\obj\Debug\IDAL.pdb

@@ -21,3 +21,9 @@ D:\StorageWeb\MVCweb\Model\obj\Debug\Model.csprojAssemblyReference.cache
 D:\StorageWeb\MVCweb\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
 D:\StorageWeb\MVCweb\Model\obj\Debug\Model.dll
 D:\StorageWeb\MVCweb\Model\obj\Debug\Model.pdb
+F:\git\StorageWeb\MVCweb\Model\bin\Debug\Model.dll
+F:\git\StorageWeb\MVCweb\Model\bin\Debug\Model.pdb
+F:\git\StorageWeb\MVCweb\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\git\StorageWeb\MVCweb\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\git\StorageWeb\MVCweb\Model\obj\Debug\Model.dll
+F:\git\StorageWeb\MVCweb\Model\obj\Debug\Model.pdb

@@ -42,3 +42,14 @@ D:\StorageWeb\MVCweb\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\StorageWeb\MVCweb\DAL\obj\Debug\DAL.csproj.CopyComplete
 D:\StorageWeb\MVCweb\DAL\obj\Debug\DAL.dll
 D:\StorageWeb\MVCweb\DAL\obj\Debug\DAL.pdb
+F:\git\StorageWeb\MVCweb\DAL\bin\Debug\DAL.dll
+F:\git\StorageWeb\MVCweb\DAL\bin\Debug\DAL.pdb
+F:\git\StorageWeb\MVCweb\DAL\bin\Debug\IDAL.dll
+F:\git\StorageWeb\MVCweb\DAL\bin\Debug\Model.dll
+F:\git\StorageWeb\MVCweb\DAL\bin\Debug\IDAL.pdb
+F:\git\StorageWeb\MVCweb\DAL\bin\Debug\Model.pdb
+F:\git\StorageWeb\MVCweb\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\git\StorageWeb\MVCweb\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\git\StorageWeb\MVCweb\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\git\StorageWeb\MVCweb\DAL\obj\Debug\DAL.dll
+F:\git\StorageWeb\MVCweb\DAL\obj\Debug\DAL.pdb

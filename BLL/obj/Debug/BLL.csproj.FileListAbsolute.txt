@@ -42,3 +42,14 @@ D:\StorageWeb\MVCweb\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
 D:\StorageWeb\MVCweb\BLL\obj\Debug\BLL.csproj.CopyComplete
 D:\StorageWeb\MVCweb\BLL\obj\Debug\BLL.dll
 D:\StorageWeb\MVCweb\BLL\obj\Debug\BLL.pdb
+F:\git\StorageWeb\MVCweb\BLL\bin\Debug\BLL.dll
+F:\git\StorageWeb\MVCweb\BLL\bin\Debug\BLL.pdb
+F:\git\StorageWeb\MVCweb\BLL\bin\Debug\IDAL.dll
+F:\git\StorageWeb\MVCweb\BLL\bin\Debug\Model.dll
+F:\git\StorageWeb\MVCweb\BLL\bin\Debug\IDAL.pdb
+F:\git\StorageWeb\MVCweb\BLL\bin\Debug\Model.pdb
+F:\git\StorageWeb\MVCweb\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\git\StorageWeb\MVCweb\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\git\StorageWeb\MVCweb\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\git\StorageWeb\MVCweb\BLL\obj\Debug\BLL.dll
+F:\git\StorageWeb\MVCweb\BLL\obj\Debug\BLL.pdb
